@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Jude Tochukwu Ogbozor
-- 👀 I’m interested in Data Science, machine learning and artificial intelligent
-- 🌱 I’m currently learning Deep learning
-- 💞️ I’m looking to collaborate on any project on data science
-- 📫 How to reach me judetheory@gmail.com
+- I have worked in various projects ranging from Data Analysis, Machine learning and Software Development. I specialize in Backend Engineering.
+- I am working on a Youtube channel where I share knowledge basically on my day to day work excerpt for lerning purposes only.
+- I was in the Development team to developed itailor, Eat 'n Gain.
+- I work with TEPLEF ENGINEERING presently as a software engineer.
 
 <!---
 Judetheory/Judetheory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
